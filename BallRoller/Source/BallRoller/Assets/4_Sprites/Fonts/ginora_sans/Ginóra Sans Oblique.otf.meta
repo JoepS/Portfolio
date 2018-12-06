@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: cad66eddfce664f41959895d02128ccd
+timeCreated: 1493475232
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ginora Sans
+  fontNames:
+  - Ginora Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 304d5994902fd4445a968cce4851fd62, type: 3}
+  - {fileID: 12800000, guid: bc175d4692f7e2943b0394f04d792b77, type: 3}
+  - {fileID: 12800000, guid: 016aeed6cdead3943956f9206a06aa70, type: 3}
+  - {fileID: 12800000, guid: 5210ed88f228c6a4e9aea766c87ba878, type: 3}
+  - {fileID: 12800000, guid: 8df9349efc554b245ad15b04e79d6383, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
